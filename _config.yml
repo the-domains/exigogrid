@@ -1,7 +1,7 @@
 name: ExigoGrid
 favicon: null
-layout_spectrum: 0.9239060042891651
-typography_spectrum: 0.135042144684121
+layout_spectrum: 0
+typography_spectrum: 0.25254
 cta:
   domain: null
   bucket: null
