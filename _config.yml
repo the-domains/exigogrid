@@ -1,0 +1,28 @@
+name: ExigoGrid
+favicon: null
+layout_spectrum: 0.9239060042891651
+typography_spectrum: 0.135042144684121
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.030487907119095325
+  lightness: 0.7188590136356652
+  saturation: 0.9966935676056892
+  rhythmicContrast: 0.4975953185930848
+purpose: []
